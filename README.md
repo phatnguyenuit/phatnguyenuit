@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 Pronouns: Fast */fast/*
+😄 Pronouns: Fast */fɑːst/*
 
 🔭 I’m currently working on **ReactJS** and **TypeScript**
