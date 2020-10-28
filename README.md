@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+Hi everyone,
+
+I am open to working as a freelancer (part-time) on Web Development.
+Prefer: frontend with ReactJS
+#frontend #react #fastnguyen #reacthooks #reactjs
+#javascript #webdevelopment #developer
+```
 😄 Pronouns: Fast */fɑːst/*
 
 🔭 I’m currently working on **ReactJS** and **TypeScript**
