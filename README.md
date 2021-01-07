@@ -20,7 +20,7 @@ Hi everyone,
 I am open to working as a freelancer (part-time) on Web Development.
 Prefer: frontend with ReactJS
 #frontend #react #fastnguyen #reacthooks #reactjs
-#javascript #webdevelopment #developer
+#javascript #typescript #webdevelopment #developer
 ```
 😄 Pronouns: Fast */fɑːst/*
 
