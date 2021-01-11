@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ```
 Hi everyone,
 
-I am open to working as a freelancer (part-time) on Web Development.
-Prefer: frontend with ReactJS
+I am Fast, I have 3+ years of experience on Web Development.
+Main focus on: frontend with ReactJS and TypeScript
 #frontend #react #fastnguyen #reacthooks #reactjs
-#javascript #typescript #webdevelopment #developer
+#javascript #typescript #web-development #engineer
 ```
 😄 Pronouns: Fast */fɑːst/*
 
