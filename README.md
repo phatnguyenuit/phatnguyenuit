@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```
 Hi everyone,
 
-I am Fast, I have 3+ years of experience on Web Development.
+I am Fast, I have 4+ years of experience on Web Development.
 Main focus on: frontend with ReactJS and TypeScript
 #frontend #react #fastnguyen #reacthooks #reactjs
 #javascript #typescript #web-development #engineer
