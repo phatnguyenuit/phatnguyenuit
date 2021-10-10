@@ -30,6 +30,11 @@ Main focus on: frontend with ReactJS and TypeScript
 
 💻 Articles
 
+- [How to mock process.env when writing unit tests with Jest](https://medium.com/weekly-webtips/how-to-mock-process-env-when-writing-unit-tests-with-jest-80940f367c2c?source=friends_link&sk=0c9cef9403a13f6547ea6183bb7ef0a1)
+
+  > If you are working with unit tests in Jest and you don't know how to mock process.env
+  > I think this is the right article for you 😁
+
 - [How to get runtime type checking in TypeScript](https://medium.com/weekly-webtips/how-to-get-runtime-type-checking-in-typescript-ec06e88046f4?source=friends_link&sk=4c91c043879a0803a13c627bfe920fce)
 
   > Have you ever think about how to get runtime type checking in TypeScript?
