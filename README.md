@@ -30,6 +30,10 @@ Main focus on: frontend with ReactJS and TypeScript
 
 💻 Articles
 
+- [How to build a React library with TypeScript](https://medium.com/weekly-webtips/how-to-build-a-react-library-with-typescript-d0f08a1f517e?source=friends_link&sk=ce8f646adfd9e01b42f04ee2392ad588)
+
+  > You can build your own React packages just using TypeScript and Rollup after read through my article 😁.
+
 - [How to mock process.env when writing unit tests with Jest](https://medium.com/weekly-webtips/how-to-mock-process-env-when-writing-unit-tests-with-jest-80940f367c2c?source=friends_link&sk=0c9cef9403a13f6547ea6183bb7ef0a1)
 
   > If you are working with unit tests in Jest and you don't know how to mock process.env
