@@ -30,7 +30,7 @@ Main focus on: frontend with ReactJS and TypeScript
 
 💻 Articles
 
-- [How to enforce TypeScript types in the runtime environment](https://medium.com/weekly-webtips/how-to-enforce-typescript-types-in-the-runtime-environment-3564ae33a792?source=friends_link&sk=c7d164b79be7829ac6f3a92fcfe7ada9){:target="\_blank"}
+- [How to enforce TypeScript types in the runtime environment](https://medium.com/weekly-webtips/how-to-enforce-typescript-types-in-the-runtime-environment-3564ae33a792?source=friends_link&sk=c7d164b79be7829ac6f3a92fcfe7ada9)
 
   
   > In this article, I am going to show the way to enforce TypeScript types in the runtime environment. Because in the runtime environment, the real source code executed is JavaScript (after being compiled from TypeScript)
