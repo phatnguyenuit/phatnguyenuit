@@ -72,4 +72,4 @@ Main focus on: frontend with ReactJS and TypeScript
 
 💪🏿 Skills
 
-![Fast Nguyen Skill IQ](https://user-images.githubusercontent.com/19201982/147434303-65edb5a2-6e0b-40e5-9509-0b437bd8e32d.png)
+![Fast Nguyen Skill IQs](https://user-images.githubusercontent.com/19201982/152078178-475a6127-9f94-408c-bcdb-b5f93e38aaa0.png)
