@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ```
 Hi everyone,
 
-My name is Fast, I have 5+ years of experience on Web Development.
+It is Fast - Senior Frontend Engineer at NAB.
+I have 5+ years of experience on Web Development.
 Main focus on: frontend with ReactJS and TypeScript
 #frontend #react #fastnguyen #reacthooks #reactjs
 #javascript #typescript #web-development #engineer
